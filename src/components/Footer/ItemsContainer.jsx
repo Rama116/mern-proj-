@@ -1,7 +1,7 @@
 // import React from 'react'
 
-import Item from "./Footer/Item"
-import {PRODUCTS,RESOURCES,COMPANY,SUPPORT,Icons} from "./Menu"
+import Item from "../Footer/Item"
+import {PRODUCTS,RESOURCES,COMPANY,SUPPORT} from "../Footer/Menu"
 const itemsContainer = () => {
   return (
     <>

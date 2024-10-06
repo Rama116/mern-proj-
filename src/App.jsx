@@ -1,4 +1,4 @@
-import Footer from "./components/foot"
+import Footer from "./components/Footer/foot"
 function App() {
   
 
