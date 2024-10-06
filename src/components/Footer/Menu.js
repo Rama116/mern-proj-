@@ -1,6 +1,6 @@
 export const PRODUCTS = [
-    { name: "Drag And Drop", link: "#" },
-    { name: "Visual Studio X", link: "#" },
+    { name: "QnA", link: "#" },
+    { name: "Enhance your English Skills", link: "#" },
     { name: "Easy Content", link: "#" },
   ];
   export const RESOURCES = [
