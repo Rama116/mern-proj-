@@ -1,10 +1,10 @@
-import Footer from "./components/Footer/foot"
+import Login from "./components/Login"
 function App() {
   
 
   return (
     <>
-      <Footer />
+      <Login />
     </>
   )
 }
